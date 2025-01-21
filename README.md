@@ -17,7 +17,9 @@ A simple URL shortener built with Node.js and TypeScript. This service allows us
 - Custom branded short URLs for promotions.
 
 Here is the Data Flow Diagram (DFD) for the project:
+
 ![DFD Diagram](docs/dfd.png)
+
 
 ## Installation
 
@@ -142,8 +144,6 @@ Input validation is performed on all relevant routes to ensure data integrity.
 The API returns appropriate HTTP status codes and error messages in case of errors.
 
 ## Example Usage
-
-(Provide examples of how to use the API endpoints, including request bodies and expected responses. This section is very helpful for users.)
 
 Example `POST /api/url/shorten` request:
 
