@@ -20,6 +20,9 @@ Here is the Data Flow Diagram (DFD) for the project:
 
 ![DFD Diagram](docs/dfd.png)
 
+Here are the Entity-Relationship Diagrams (ERDs) for the project:
+
+![ER Diagram](docs/er-diagram.jpeg)
 
 ## Installation
 
